@@ -10,7 +10,7 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp Yang Dibuat Oleh manusia Gabut Bernama *RIYO*.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Jika Kamu Menemukan Bug Atau Eror Harap hubungi owner🙏 *JIKA MAU SEWABOT INI HARAP HUBUNGI NOMOR OWNER* : _wa.me/+6281223918622_`
 }
 
 //—————「 List 」—————//
